@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WorkWithFragment</string>
+    <string name="main_text">Введите данные книги пожалуйста</string>
+    <string name="find_a_book">Найти книгу</string>
+    <string name="book_title">Название произведения</string>
+    <string name="boot_author">Автор произведения</string>
+    <string name="enter_data">Введите данные книги пожалуйста</string>
+    <string name="send__button">Отправить</string>
+    <string name="back">Назад</string>
+    <string name="you_entered">Вы ввели:</string>
+    <string name="background_for_result">background for result</string>
+    <string name="enter_title_and_author">Введите навзвание и автора произведения</string>
+    <string name="background_image">background image</string>
+</resources>
