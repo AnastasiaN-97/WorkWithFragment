@@ -17,12 +17,12 @@ class MainActivity : AppCompatActivity(), SomeFragmentClickListener {
             .commit()
     }
 
-
     override fun onClick(title: String, author: String) {
         supportFragmentManager.beginTransaction()
             .addToBackStack(null)
             .replace(R.id.main_container, ResultFragment.newInstance(title, author))
             .commit()
+        //проверяю
     }
 
     override fun onClickResult() {
